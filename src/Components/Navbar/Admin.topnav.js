@@ -3,7 +3,7 @@ import logo from '../Image/logo.png';
 
 
 
-function Loginnav() {
+function AdminNavTop() {
     return (
         <>
         <div class="navbar bg-white ">
@@ -20,4 +20,4 @@ function Loginnav() {
     )
 }
 
-export default Loginnav
+export default AdminNavTop
