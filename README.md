@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+<img src='https://cdn.discordapp.com/attachments/960423388369813514/1209425990535876629/image.png?ex=65e6e0ba&is=65d46bba&hm=8c64eaa5a13a0e23dea9dfa37c49eaabc30e8097e226f221d646656dcd4ed1e4&' />
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
