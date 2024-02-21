@@ -3,12 +3,11 @@ import RoomTable from './RoomTable'
 
 
 function Dashboard() {
-    var test = 0;
     return (
         <>
-            <div className="p-4 sm:ml-64">
+            <div className="p-4 sm:ml-64 ">
                     <div className="flex flex-wrap justify-center mt-10">
-                        <div className="p-4 w-[25%]">
+                        <div className="p-4 w-[50%]">
                             <div className="flex rounded-lg h-full bg-white shadow-lg bg-teal-400 p-8 flex-col">
                                 <div className="flex items-center mb-3">
                                     <div
@@ -30,7 +29,7 @@ function Dashboard() {
                                 </div>
                             </div>
                         </div>
-                        <div className="p-4 w-[25%]">
+                        <div className="p-4 w-[50%]">
                             <div className="flex rounded-lg h-full bg-white shadow-lg bg-teal-400 p-8 flex-col">
                                 <div className="flex items-center mb-3">
                                     <div
@@ -52,7 +51,7 @@ function Dashboard() {
                                 </div>
                             </div>
                         </div>
-                        <div className="p-4 w-[25%]">
+                        <div className="p-4 w-[50%]">
                             <div className="flex rounded-lg h-full bg-white shadow-lg bg-teal-400 p-8 flex-col">
                                 <div className="flex items-center mb-3">
                                     <div
@@ -74,7 +73,7 @@ function Dashboard() {
                                 </div>
                             </div>
                         </div>
-                        <div className="p-4 w-[25%]">
+                        <div className="p-4 w-[50%]">
                             <div className="flex rounded-lg h-full bg-white shadow-lg bg-teal-400 p-8 flex-col">
                                 <div className="flex items-center mb-3">
                                     <div
