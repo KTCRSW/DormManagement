@@ -3,6 +3,7 @@ import RoomTable from './RoomTable'
 
 
 function Dashboard() {
+    var test = 0;
     return (
         <>
             <div className="p-4 sm:ml-64">
